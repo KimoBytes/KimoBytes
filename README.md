@@ -22,9 +22,6 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
-    <a href="firebase.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/>
-    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
@@ -32,7 +29,7 @@
         <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="js" width="40" height="40"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="40" heigh="40"/>
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" heigh="40"/>
     </a>
 
 <p align="center">

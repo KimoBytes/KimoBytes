@@ -10,12 +10,13 @@
     <li>🫎 lwk kinda retarded</li>
 </ul>
 
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://e-z.bio/yerk" target="blank">
     </a>
 </p>
-
+-->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -30,8 +31,9 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" heigh="40"/>
     </a>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimobytes&show_icons=true&locale=en&title_color=4f0b06&icon_color=4f0b06&text_color=ffffff&bg_color=fffefe&style=for-the-badge" alt="kimobytes" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimobytes&ring=4f0b06&fire=4f0b06&sideNums=4f0b06&currStreakLabel=4f0b06&style=for-the-badge" alt="kimobytes" />
 </p>
+-->
